@@ -1,0 +1,9 @@
+Industry,AvgProfitMargin,AvgDebtRatio
+Retail,0.15,0.30
+Manufacturing,0.10,0.40
+Services,0.20,0.25
+Logistics,0.12,0.35
+E-commerce,0.18,0.28
+Agriculture,0.14,0.32
+Healthcare,0.22,0.20
+Construction,0.11,0.45
